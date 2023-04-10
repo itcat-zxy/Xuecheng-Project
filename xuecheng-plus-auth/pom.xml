@@ -12,7 +12,7 @@
 
 
 
-    <!-- nacos注册，认证授权  -->
+    <!-- nacos注册，认证授权 -->
     <dependencies>
         <dependency>
             <groupId>com.alibaba.cloud</groupId>
