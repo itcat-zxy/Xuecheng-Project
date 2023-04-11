@@ -12,7 +12,6 @@ import org.springframework.web.filter.CorsFilter;
  * @author Wuxy
  * @version 1.0
  * @ClassName GlobalCorsConfig
- * @since 2023/1/19 11:58
  */
 @Configuration
 public class GlobalCorsConfig {
