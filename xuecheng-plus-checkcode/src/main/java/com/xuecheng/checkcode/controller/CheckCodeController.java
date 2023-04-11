@@ -16,10 +16,6 @@ import javax.annotation.Resource;
 
 /**
  * 验证码服务接口
- *
- * @author Wuxy
- * @version 1.0
- * @since 2022/9/29 18:39
  */
 @Api(value = "验证码服务接口")
 @RestController
