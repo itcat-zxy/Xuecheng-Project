@@ -7,7 +7,6 @@
 		<artifactId>xuecheng-plus-parent</artifactId>
 		<version>0.0.1</version>
 	</parent>
-
 	<artifactId>xuecheng-plus-gateway</artifactId>
 	<version>0.0.1</version>
 	<name>xuecheng-plus-gateway</name>
