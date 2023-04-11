@@ -9,6 +9,7 @@
 		<relativePath>../xuecheng-plus-parent</relativePath>
 	</parent>
 
+
 	<artifactId>xuecheng-plus-base</artifactId>
 	<version>0.0.1</version>
 	<name>xuecheng-plus-base</name>
