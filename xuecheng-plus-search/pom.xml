@@ -10,6 +10,7 @@
     </parent>
     <artifactId>xuecheng-plus-search</artifactId>
 
+
     <dependencies>
         <dependency>
             <groupId>com.xuecheng</groupId>
